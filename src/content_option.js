@@ -1,38 +1,43 @@
-const logotext = "JOHN";
+const logotext = "ABDULLO";
 const meta = {
-    title: "John Doe",
-    description: "I’m John Doe data scientist _ Full stack devloper,currently working in Berlin",
+    title: "Abdullo Omonullaev",
+    description: "I’m Abdullo Omonullaev _ Systems Software Engineer at Toyota. Living out in Dallas, Texas",
 };
 
 const introdata = {
-    title: "I’m John Doe",
+    title: "I’m Abdullo Omonullaev",
     animated: {
-        first: "I love coding",
-        second: "I code cool websites",
-        third: "I develop mobile apps",
+        first: "I enjoy developing websites",
+        second: "I'm great at Brazilian Jiu Jitsu",
+        third: "I enjoy working with new and emerging technologies",
     },
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum",
-    your_img_url: "https://images.unsplash.com/photo-1514790193030-c89d266d5a9d",
+    description: "Software Engineer at Toyota - Connected. Working out of Dallas, Texas. Experience in working on both frontend and backend technologies, including REACT, Angular, java and other languages.",
+    your_img_url: "https://i.imghippo.com/files/1705359486.jpg",
 };
 
 const dataabout = {
-    title: "abit about my self",
-    aboutme: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Praesent quis dolor id ligula semper elementum feugiat pretium nulla. Nunc non commodo dolor. Nunc mollis dignissim facilisis. Morbi ut magna ultricies.",
+    title: "About myself",
+    aboutme: "Currently a software engineer who transition from the fiancial industry to the automotive industry. Graduated from Stony Brook University in NY and moved down to Dallas, Texas after graduations. Besides software development, I like to be active and I occasionaly run marathons and compete in Brazilian Jiu Jitsu.",
 };
 const worktimeline = [{
-        jobtitle: "Designer of week",
-        where: "YAdfi",
-        date: "2020",
+        jobtitle: "Systems Software Engineer",
+        where: "Toyota Connected",
+        date: "September 2023 - Present",
     },
     {
-        jobtitle: "Designer of week",
-        where: "Jamalya",
-        date: "2019",
+        jobtitle: "Software Engineer",
+        where: "Fidelity Investments",
+        date: "June 2022 - September 2023",
     },
     {
-        jobtitle: "Designer of week",
-        where: "ALquds",
-        date: "2019",
+        jobtitle: "Lead Student Technician",
+        where: "Stony Brook Client Support",
+        date: "February 2019 - May 2022",
+    },
+    {
+        jobtitle: "Software Engineer Intern",
+        where: "Fidelity Investments",
+        date: "Summer 2020 and Summer 2021",
     },
 ];
 
@@ -41,8 +46,12 @@ const skills = [{
         value: 90,
     },
     {
-        name: "Djano",
-        value: 85,
+        name: "Java",
+        value: 95,
+    },
+    {
+        name: "Git",
+        value: 95,
     },
     {
         name: "Javascript",
@@ -50,11 +59,31 @@ const skills = [{
     },
     {
         name: "React",
-        value: 60,
+        value: 90,
     },
     {
-        name: "Jquery",
+        name: "Angular",
         value: 85,
+    },
+    {
+        name: "SQL",
+        value: 90,
+    },
+    {
+        name: "MongoDB",
+        value: 92,
+    },
+    {
+        name: "Node.js",
+        value: 85,
+    },
+    {
+        name: "CI/CD Pipeline Creation",
+        value: 90,
+    },
+    {
+        name: "AWS Certified Cloud Practitioner",
+        value: 90,
     },
 ];
 
@@ -136,8 +165,8 @@ const dataportfolio = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "name@domain.com",
-    YOUR_FONE: "(555)123-4567",
+    YOUR_EMAIL: "oabdullo@gmail.com",
+    YOUR_FONE: "(917)551-0588",
     description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
@@ -147,9 +176,9 @@ const contactConfig = {
 };
 
 const socialprofils = {
-    github: "https://github.com",
-    facebook: "https://facebook.com",
-    linkedin: "https://linkedin.com",
+    github: "https://github.com/oabdullo",
+    facebook: "https://www.facebook.com/abdullo12345",
+    linkedin: "https://www.linkedin.com/in/oabdullo/",
     twitter: "https://twitter.com",
 };
 export {
