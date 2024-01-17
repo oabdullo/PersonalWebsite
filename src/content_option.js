@@ -163,6 +163,68 @@ const dataportfolio = [{
     },
 ];
 
+const dataCars = [{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQLek1IKhZeBkYFOfuiGaSmCIras_RFnQNHPAbxXC2DTDZWgVdS55b1el3En7KKmXRawXoXQ7CfbaG3AJAj0i7zWrszyQ=s1600",
+    description: "First Car and Favorite Car",
+    link: "https://drive.google.com/drive/folders/1OSfXQWjXnNpcHpsIRsryjs-SmRfMrpey?usp=drive_link",
+},
+{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR4gVnnDfb_3yv_YczJTSyyNtO6cTvZmQLOFsj0XN7P-ysBakmXf0W5EvIkmRWm0BUMLNffPH05q4ecdxXnhAaQY0qO=s1600",
+    description: "White Ford Fusion",
+    link: "https://drive.google.com/drive/folders/1XkQHdmPKoNjy188nE3y6qTxP3D9ane70?usp=drive_link",
+},
+{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYS9KUzakWIT9vhRmcbCLWHIXGp-LDdMk9CMNhLIAkKjOmVGbm8u2dhY6cqyaFrDrTuTpniqIm9jCcBMf3qaOuLxOuqDIg=s1600",
+    description: "Deer Ford Fusion Blue",
+    link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
+},
+{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTtNR1rXv_u9L7sFw2M-sno9WpbccT5fQBe4vG9LiMn7mHhV0mEUTAZRPoOttaUVmeD4acsoB4elxcLV49V5mgTGllyKA=s1600",
+    description: "Lexus CT",
+    link: "https://drive.google.com/drive/folders/1azOZJzcuOReJsXAYsFeb4raZlylGOSjG?usp=drive_link",
+},
+{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRqzV5Jk9UI165abm8h9WAlGh89KR7tNKgVvR8LEQanUCD_puS0ltSfFDu3Z_xRkfAupyhGGo6g8wikIUkjDIpOPAJthA=s1600",
+    description: "Favorite Ford Fusion",
+    link: "https://github.com/oabdullo/personalReact",
+},
+{
+    img: "https://picsum.photos/400/600/?grayscale",
+    description: "Beautiful BMW e39 540i",
+    link: "https://drive.google.com/drive/folders/1P3k6c9x41teeqeP8Obeej4USsOckhIRX?usp=drive_link",
+},
+{
+    img: "https://picsum.photos/400/300/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://i.imghippo.com/files/1705466069.png",
+    description: "BMW 330CI",
+    link: "https://drive.google.com/drive/folders/1Dk_zuVX8KgGqNgTj9QGUHWynYOBIQHJb?usp=drive_link",
+},
+{
+    img: "https://picsum.photos/400/550/?grayscale",
+    description: "BMW 325i Blue",
+    link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
+},
+{
+    img: "https://picsum.photos/400/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+{
+    img: "https://picsum.photos/400/700/?grayscale",
+    description: "The wisdom of life consists in the elimination of non-essentials.",
+    link: "#",
+},
+];
+
 const contactConfig = {
     YOUR_EMAIL: "oabdullo@gmail.com",
     YOUR_FONE: "(917)551-0588",
@@ -184,6 +246,7 @@ export {
     meta,
     dataabout,
     dataportfolio,
+    dataCars,
     worktimeline,
     skills,
     services,
