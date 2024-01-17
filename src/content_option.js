@@ -194,16 +194,6 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1P3k6c9x41teeqeP8Obeej4USsOckhIRX?usp=drive_link",
 },
 {
-    img: "https://picsum.photos/400/300/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
     img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRcLnF02xXsXRP_K2A-htjCU46guIh1LADVV_vXuMwpClZ_KW9ZeA9_Y3ECxVGk9qG7XuGEtLsWCfcRzxvCmzbjc7tv=s1600",
     description: "BMW 330CI",
     link: "https://drive.google.com/drive/folders/1Dk_zuVX8KgGqNgTj9QGUHWynYOBIQHJb?usp=drive_link",
@@ -212,16 +202,6 @@ const dataCars = [{
     img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSxEufy-khQoV-7vDOjgsWS4BFgliv7aTxOz1KVUhNFpO3_zNXsD-uHFzBRFWc7bOZLD8GJ6VnesiFb1kXW-6PFEYYhCQ=s1600",
     description: "BMW 325i Blue",
     link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
-},
-{
-    img: "https://picsum.photos/400/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
-},
-{
-    img: "https://picsum.photos/400/700/?grayscale",
-    description: "The wisdom of life consists in the elimination of non-essentials.",
-    link: "#",
 },
 ];
 
