@@ -88,23 +88,23 @@ const skills = [{
 ];
 
 const services = [{
-        title: "UI & UX Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Website Development",
+        description: "I can build a reactive frontend and backend for websites.",
     },
     {
-        title: "Mobile Apps",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "UI/UX Design ",
+        description: "Based on ones preferences, I can design and build out interfaces for different applications.",
     },
     {
-        title: "Wordpress Design",
-        description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed at nisl euismod urna bibendum sollicitudin.",
+        title: "Backend Development",
+        description: "Can develop resilient and effcient backends using java and webflux to create apis and other custom services.",
     },
 ];
 
 const dataportfolio = [{
-        img: "https://picsum.photos/400/?grayscale",
-        description: "The wisdom of life consists in the elimination of non-essentials.",
-        link: "#",
+        img: "https://i.imghippo.com/files/1705363213.jpg",
+        description: "Quiz taking applicaiton created in react for my senior design project.",
+        link: "https://github.com/QuizPop/main",
     },
     {
         img: "https://picsum.photos/400/800/?grayscale",
