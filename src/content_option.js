@@ -186,7 +186,12 @@ const dataCars = [{
 {
     img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRqzV5Jk9UI165abm8h9WAlGh89KR7tNKgVvR8LEQanUCD_puS0ltSfFDu3Z_xRkfAupyhGGo6g8wikIUkjDIpOPAJthA=s1600",
     description: "Favorite Ford Fusion",
-    link: "https://github.com/oabdullo/personalReact",
+    link: "https://drive.google.com/drive/folders/1jQBTU7B0DMTpr1VawSDfMbv4DaNUEvl-?usp=drive_link",
+},
+{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQmbEr6k0nnGakZ2bZG0yxLQbXqs_1GM_g-wAYjXigdpkMqhPy2m6RRMw6ucD-RpkNAUcchwYVcjhEAnY6ewJq3UlZU8A=s1600",
+    description: "BMW M3 E93 Convertble",
+    link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
 {
     img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR67EB5LVRldrZrt74W5Y1hx7HRDU6JsEUicw-ttScTrgxrwuIXYVKdaJpcRkWwci_IOhjf4dIymCQwR1YDwtA9HDNrVQ=s1600",
@@ -206,9 +211,9 @@ const dataCars = [{
 ];
 
 const contactConfig = {
-    YOUR_EMAIL: "oabdullo@gmail.com",
-    YOUR_FONE: "(917)551-0588",
-    description: "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Morbi vehicula eu nunc et sollicitudin. Cras pulvinar, nisi at imperdiet pharetra. ",
+    YOUR_EMAIL: "omoabdullo@gmail.com",
+    YOUR_FONE: "(999)-999-9999",
+    description: "Removed my personal phone number but please contact me through email ",
     // creat an emailjs.com account 
     // check out this tutorial https://www.emailjs.com/docs/examples/reactjs/
     YOUR_SERVICE_ID: "service_id",
