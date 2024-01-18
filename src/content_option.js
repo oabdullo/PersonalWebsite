@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Currently a software engineer who transition from the fiancial industry to the automotive industry. Graduated from Stony Brook University in NY and moved down to Dallas, Texas after graduations. Besides software development, I like to be active and I occasionaly run marathons and compete in Brazilian Jiu Jitsu.",
+    aboutme: "Currently a software engineer who transition from the finacial industry to the automotive industry. Graduated from Stony Brook University in NY and moved down to Dallas, Texas after graduations. Besides software development, I like to be active and I occasionaly run marathons and compete in Brazilian Jiu Jitsu.",
 };
 const worktimeline = [{
         jobtitle: "Systems Software Engineer",
@@ -134,11 +134,6 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQmbEr6k0nnGakZ2bZG0yxLQbXqs_1GM_g-wAYjXigdpkMqhPy2m6RRMw6ucD-RpkNAUcchwYVcjhEAnY6ewJq3UlZU8A=s1600",
-    description: "BMW M3 E93 Convertble",
-    link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
-},
-{
     img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTtNR1rXv_u9L7sFw2M-sno9WpbccT5fQBe4vG9LiMn7mHhV0mEUTAZRPoOttaUVmeD4acsoB4elxcLV49V5mgTGllyKA=s1600",
     description: "Lexus CT",
     link: "https://drive.google.com/drive/folders/1azOZJzcuOReJsXAYsFeb4raZlylGOSjG?usp=drive_link",
@@ -162,6 +157,11 @@ const dataCars = [{
     img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSxEufy-khQoV-7vDOjgsWS4BFgliv7aTxOz1KVUhNFpO3_zNXsD-uHFzBRFWc7bOZLD8GJ6VnesiFb1kXW-6PFEYYhCQ=s1600",
     description: "BMW 325i Blue",
     link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
+},
+{
+    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQmbEr6k0nnGakZ2bZG0yxLQbXqs_1GM_g-wAYjXigdpkMqhPy2m6RRMw6ucD-RpkNAUcchwYVcjhEAnY6ewJq3UlZU8A=s1600",
+    description: "BMW M3 E93 Convertble",
+    link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
 ];
 
