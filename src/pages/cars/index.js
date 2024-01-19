@@ -20,7 +20,7 @@ export const Cars = () => {
           </Col>
         </Row>
         <div className="mb-5 po_items_ho">
-          {dataCars.map((data, i) => {
+          {dataCars.toReversed().map((data, i) => {
             return (
               <div key={i} className="po_item">
                 <img src={data.img} alt="" />
