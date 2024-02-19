@@ -7,7 +7,7 @@ app.use(cors());
 
 //mongodb connection
 const mongoUrl =
-  "mongodb+srv://dbAdmin:AHRyc2w33ocLAokn@cluster0.hmeylsb.mongodb.net/?retryWrites=true&w=majority";
+  "${{ secrets.MONGO_DB}}";
 
 mongoose
   .connect(mongoUrl, {
