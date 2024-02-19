@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Currently a software engineer who transition from the finacial industry to the automotive industry. Graduated from Stony Brook University in NY and moved down to Dallas, Texas after graduations. Besides software development, I like to be active and I occasionaly run marathons and compete in Brazilian Jiu Jitsu.",
+    aboutme: "Currently a software engineer who transition from the financial industry to the automotive industry. Graduated from Stony Brook University in NY and moved down to Dallas, Texas after graduation. Besides software development, I like to be active and I occasionaly run marathons and compete in Brazilian Jiu Jitsu.",
 };
 const worktimeline = [{
         jobtitle: "Systems Software Engineer",
@@ -89,11 +89,11 @@ const skills = [{
 
 const services = [{
         title: "Website Development",
-        description: "I can build a reactive frontend and backend for websites.",
+        description: "I am able to build reactive full stack web applications that can integrate with a backend and have a CI/CD pipeline to deploy and test.",
     },
     {
         title: "UI/UX Design ",
-        description: "Based on ones preferences, I can design and build out interfaces for different applications.",
+        description: "Utilizing Figma and other UI/UX tools, I can build out a UI design and design a proof of concept for the user/",
     },
     {
         title: "Backend Development",
@@ -119,47 +119,47 @@ const dataportfolio = [{
 ];
 
 const dataCars = [{
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQLek1IKhZeBkYFOfuiGaSmCIras_RFnQNHPAbxXC2DTDZWgVdS55b1el3En7KKmXRawXoXQ7CfbaG3AJAj0i7zWrszyQ=s1600",
+    img: "/images/Prius.PNG",
     description: "First Car and Favorite Car",
     link: "https://drive.google.com/drive/folders/1OSfXQWjXnNpcHpsIRsryjs-SmRfMrpey?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR4gVnnDfb_3yv_YczJTSyyNtO6cTvZmQLOFsj0XN7P-ysBakmXf0W5EvIkmRWm0BUMLNffPH05q4ecdxXnhAaQY0qO=s1600",
+    img: "/images/FordFusionWhite.jpg",
     description: "White Ford Fusion",
     link: "https://drive.google.com/drive/folders/1XkQHdmPKoNjy188nE3y6qTxP3D9ane70?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYS9KUzakWIT9vhRmcbCLWHIXGp-LDdMk9CMNhLIAkKjOmVGbm8u2dhY6cqyaFrDrTuTpniqIm9jCcBMf3qaOuLxOuqDIg=s1600",
+    img: "/images/FordDeer.jpg",
     description: "Deer Ford Fusion Blue",
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYTtNR1rXv_u9L7sFw2M-sno9WpbccT5fQBe4vG9LiMn7mHhV0mEUTAZRPoOttaUVmeD4acsoB4elxcLV49V5mgTGllyKA=s1600",
+    img: "/images/LexusCt.jpg",
     description: "Lexus CT",
     link: "https://drive.google.com/drive/folders/1azOZJzcuOReJsXAYsFeb4raZlylGOSjG?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRqzV5Jk9UI165abm8h9WAlGh89KR7tNKgVvR8LEQanUCD_puS0ltSfFDu3Z_xRkfAupyhGGo6g8wikIUkjDIpOPAJthA=s1600",
+    img: "/images/2017Ford.jpg",
     description: "Favorite Ford Fusion",
     link: "https://drive.google.com/drive/folders/1jQBTU7B0DMTpr1VawSDfMbv4DaNUEvl-?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYR67EB5LVRldrZrt74W5Y1hx7HRDU6JsEUicw-ttScTrgxrwuIXYVKdaJpcRkWwci_IOhjf4dIymCQwR1YDwtA9HDNrVQ=s1600",
+    img: "/images/540i.jpg",
     description: "Beautiful BMW e39 540i",
     link: "https://drive.google.com/drive/folders/1P3k6c9x41teeqeP8Obeej4USsOckhIRX?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYRcLnF02xXsXRP_K2A-htjCU46guIh1LADVV_vXuMwpClZ_KW9ZeA9_Y3ECxVGk9qG7XuGEtLsWCfcRzxvCmzbjc7tv=s1600",
+    img: "/images/bmw330.jpg",
     description: "BMW 330CI",
     link: "https://drive.google.com/drive/folders/1Dk_zuVX8KgGqNgTj9QGUHWynYOBIQHJb?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYSxEufy-khQoV-7vDOjgsWS4BFgliv7aTxOz1KVUhNFpO3_zNXsD-uHFzBRFWc7bOZLD8GJ6VnesiFb1kXW-6PFEYYhCQ=s1600",
+    img: "/images/325.jpg",
     description: "BMW 325i Blue",
     link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
 },
 {
-    img: "https://lh3.googleusercontent.com/drive-viewer/AEYmBYQmbEr6k0nnGakZ2bZG0yxLQbXqs_1GM_g-wAYjXigdpkMqhPy2m6RRMw6ucD-RpkNAUcchwYVcjhEAnY6ewJq3UlZU8A=s1600",
+    img: "/images/m3Halo.jpg",
     description: "BMW M3 E93 Convertble",
     link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
