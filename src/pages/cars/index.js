@@ -3,11 +3,12 @@ import "./style.css";
 import { Helmet, HelmetProvider } from "react-helmet-async";
 import { Container, Row, Col } from "react-bootstrap";
 import { dataCars, meta } from "../../content_option";
-
+import CarUpload from "../carUpload";
 export const Cars = () => {
   return (
     <HelmetProvider>
       <Container className="About-header">
+        
         <Helmet>
           <meta charSet="utf-8" />
           <title> Car Timeline | {meta.title} </title>{" "}
@@ -18,6 +19,7 @@ export const Cars = () => {
             <h1 className="display-4 mb-4"> Timeline of my Cars </h1>{" "}
             <hr className="t_border my-4 ml-0 text-left" />
           </Col>
+
         </Row>
         <div className="mb-5 po_items_ho">
           {dataCars.toReversed().map((data, i) => {
@@ -32,7 +34,13 @@ export const Cars = () => {
             );
           })}
         </div>
+        <div>
+          <CarUpload>
+
+          </CarUpload>
+        </div>
       </Container>
+
     </HelmetProvider>
   );
 };
