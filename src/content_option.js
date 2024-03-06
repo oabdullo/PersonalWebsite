@@ -8,10 +8,10 @@ const introdata = {
     title: "I’m Abdullo Omonullaev",
     animated: {
         first: "I enjoy developing websites",
-        second: "I'm great at Brazilian Jiu Jitsu",
-        third: "I enjoy working with new and emerging technologies",
+        second: "I practice Brazilian Jiu Jitsu.",
+        third: "I like working on project cars.",
     },
-    description: "Software Engineer at Toyota - Connected. Working out of Dallas, Texas. Experience in working on both frontend and backend technologies, including REACT, Angular, java and other languages.",
+    description: "Software Engineer at Toyota - Conntected Technologies. Working out of Dallas, Texas. Experience in working on both frontend and backend technologies, including REACT, Angular, java and other languages.",
     your_img_url: "https://i.imghippo.com/files/1705359486.jpg",
 };
 
@@ -21,7 +21,7 @@ const dataabout = {
 };
 const worktimeline = [{
         jobtitle: "Systems Software Engineer",
-        where: "Toyota Connected",
+        where: "Toyota Connected Technologies",
         date: "September 2023 - Present",
     },
     {
@@ -89,11 +89,11 @@ const skills = [{
 
 const services = [{
         title: "Website Development",
-        description: "I am able to build reactive full stack web applications that can integrate with a backend and have a CI/CD pipeline to deploy and test.",
+        description: "I enjoy building reactive full stack web applications that can integrate with a backend and have a CI/CD pipeline to deploy and test.",
     },
     {
         title: "UI/UX Design ",
-        description: "Utilizing Figma and other UI/UX tools, I can build out a UI design and design a proof of concept for the user/",
+        description: "Utilizing Figma and other UI/UX tools, I can build out a UI design and design a proof of concept for a user.",
     },
     {
         title: "Backend Development",
@@ -119,47 +119,47 @@ const dataportfolio = [{
 ];
 
 const dataCars = [{
-    img: "/images/Prius.PNG",
+    img: "https://i.imghippo.com/files/Sv09Y1709705158.png",
     description: "First Car and Favorite Car",
     link: "https://drive.google.com/drive/folders/1OSfXQWjXnNpcHpsIRsryjs-SmRfMrpey?usp=drive_link",
 },
 {
-    img: "/images/FordFusionWhite.jpg",
+    img: "https://i.imghippo.com/files/JjEaq1709705357.jpg",
     description: "White Ford Fusion",
     link: "https://drive.google.com/drive/folders/1XkQHdmPKoNjy188nE3y6qTxP3D9ane70?usp=drive_link",
 },
 {
-    img: "/images/FordDeer.jpg",
+    img: "https://i.imghippo.com/files/RTAJU1709705229.jpg",
     description: "Deer Ford Fusion Blue",
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
 {
-    img: "/images/LexusCt.jpg",
+    img: "https://i.imghippo.com/files/zLEdN1709705075.jpg",
     description: "Lexus CT",
     link: "https://drive.google.com/drive/folders/1azOZJzcuOReJsXAYsFeb4raZlylGOSjG?usp=drive_link",
 },
 {
-    img: "/images/2017Ford.jpg",
+    img: "https://i.imghippo.com/files/kS6DH1709705184.jpg",
     description: "Favorite Ford Fusion",
     link: "https://drive.google.com/drive/folders/1jQBTU7B0DMTpr1VawSDfMbv4DaNUEvl-?usp=drive_link",
 },
 {
-    img: "/images/540i.jpg",
+    img: "https://i.imghippo.com/files/VfH061709705110.jpg",
     description: "Beautiful BMW e39 540i",
     link: "https://drive.google.com/drive/folders/1P3k6c9x41teeqeP8Obeej4USsOckhIRX?usp=drive_link",
 },
 {
-    img: "/images/bmw330.jpg",
+    img: "https://i.imghippo.com/files/9lt5K1709705061.jpg",
     description: "BMW 330CI",
     link: "https://drive.google.com/drive/folders/1Dk_zuVX8KgGqNgTj9QGUHWynYOBIQHJb?usp=drive_link",
 },
 {
-    img: "/images/325.jpg",
+    img: "https://i.imghippo.com/files/PJDhp1709705030.jpg",
     description: "BMW 325i Blue",
     link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
 },
 {
-    img: "/images/m3Halo.jpg",
+    img: "https://i.imghippo.com/files/yR8ei1709704982.jpg",
     description: "BMW M3 E93 Convertble",
     link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
