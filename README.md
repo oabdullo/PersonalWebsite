@@ -31,6 +31,9 @@ Start the server
 
 <pre>yarn start</pre>
 
+Run Website
+
+<pre>npm run start<pre>
 
 ### Thanks
 

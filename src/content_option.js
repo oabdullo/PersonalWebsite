@@ -17,7 +17,7 @@ const introdata = {
 
 const dataabout = {
     title: "About myself",
-    aboutme: "Currently a software engineer who transition from the financial industry to the automotive industry. Graduated from Stony Brook University in NY and moved down to Dallas, Texas after graduation. Besides software development, I like to be active and I occasionaly run marathons and compete in Brazilian Jiu Jitsu.",
+    aboutme: "Currently a software engineer who with experience in the financial industry and currently working in the automotive industry. Attended Undergrad in NY at Stony Brook University and moved down to Dallas, Texas. Besides software development, I like to be active and I occasionaly run marathons, compete in Brazilian Jiu Jitsu, and workout daily. I enjoy working on older cars and restoring and rebuilding old BMWs",
 };
 const worktimeline = [{
         jobtitle: "Systems Software Engineer",
@@ -85,6 +85,10 @@ const skills = [{
         name: "AWS Certified Cloud Practitioner",
         value: 90,
     },
+    {
+        name: "Cloud Development",
+        value: 90
+    }
 ];
 
 const services = [{
@@ -162,6 +166,11 @@ const dataCars = [{
     img: "https://i.imghippo.com/files/yR8ei1709704982.jpg",
     description: "BMW M3 E93 Convertble",
     link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
+},
+{
+    img: "/images/4runner.jpeg",
+    description: " Terra 4Runner",
+    link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
 ];
 
