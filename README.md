@@ -38,3 +38,6 @@ Run Website
 ### Thanks
 
 If you like this portfolio and the pipeline please let me know
+
+###TODOS
+need to add the hobbies and other information about me onto the website( host the resume there)
