@@ -12,7 +12,7 @@ const introdata = {
         third: "I like working on project cars.",
     },
     description: "Software Engineer at Toyota - Conntected Technologies. Working out of Dallas, Texas. Experience in working on both frontend and backend technologies, including REACT, Angular, java and other languages.",
-    your_img_url: "https://i.imghippo.com/files/1705359486.jpg",
+    your_img_url: "https://i.imghippo.com/files/9qTCQ1718468248.jpg",
 };
 
 const dataabout = {
@@ -122,13 +122,15 @@ const dataportfolio = [{
     }
 ];
 
+//need to add the two new cars (325 Convertible and the 2008 Prius)
+
 const dataCars = [{
     img: "https://i.imghippo.com/files/Sv09Y1709705158.png",
     description: "First Car and Favorite Car",
     link: "https://drive.google.com/drive/folders/1OSfXQWjXnNpcHpsIRsryjs-SmRfMrpey?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/JjEaq1709705357.jpg",
+    img: "https://i.imghippo.com/files/ZyxI31718468020.jpg",
     description: "White Ford Fusion",
     link: "https://drive.google.com/drive/folders/1XkQHdmPKoNjy188nE3y6qTxP3D9ane70?usp=drive_link",
 },
@@ -163,12 +165,12 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/yR8ei1709704982.jpg",
+    img: "https://i.imghippo.com/files/5Ruee1718467941.jpg",
     description: "BMW M3 E93 Convertble",
     link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
 {
-    img: "/images/4runner.jpeg",
+    img: "https://i.imghippo.com/files/DNsyL1718467862.jpg",
     description: " Terra 4Runner",
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
