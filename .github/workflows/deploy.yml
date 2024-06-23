@@ -28,5 +28,6 @@ jobs:
         server: ftp.oabdullo.com
         username: react-app@oabdullo.com
         password: ${{ secrets.GIT_CPANEL_REACT_PWD }}
-        protocol: ftps
+        protocol: ftp
+        port: 21
         local-dir: ./build/
