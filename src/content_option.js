@@ -170,10 +170,16 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
 {
+    img: "https://i.imghippo.com/files/lBNEj1719321322.jpg",
+    description: "Nostalgia Prius",
+    link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
+},
+{
     img: "https://i.imghippo.com/files/DNsyL1718467862.jpg",
     description: " Terra 4Runner",
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
+
 ];
 
 const contactConfig = {
