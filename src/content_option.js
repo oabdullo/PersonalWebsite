@@ -186,19 +186,19 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1f7FU8KSQnXsZWQaOQzSYk7BaGSChlsA8?usp=drive_link",
 },
 {
-    img: "https://www.imghippo.com/i/NF4384J.jpg",
+    img: "https://i.imghippo.com/files/NF4384J.jpg",
     description: "Dark Blue 325CI Manual",
     link: "https://drive.google.com/drive/u/1/folders/1Dz7zJwbsKY_6tH2y67yf6KNiRoT3HsMq",
 },
 {
-    img: "https://www.imghippo.com/i/AN7685qEU.jpg",
+    img: "https://i.imghippo.com/files/AN7685qEU.jpg",
     description: " Silver BMW 330 Convertible Manual",
     link: "https://drive.google.com/drive/folders/1KjtSTIMmZKOl-XthImqOGciEu6DMuSpH?usp=drive_link",
 },
 {
-    img: "https://www.imghippo.com/i/vL3152yQ.jpg",
+    img: "https://i.imghippo.com/files/vL3152yQ.jpg",
     description: " Oxford Green BMW 530 Low Mileage Different than first 540i",
-    link: "hhttps://drive.google.com/drive/folders/1T0bJuGIRzFwI-tZSsC2uD-2Q7ralDMjH?usp=drive_link",
+    link: "https://drive.google.com/drive/folders/1T0bJuGIRzFwI-tZSsC2uD-2Q7ralDMjH?usp=drive_link",
 },
 
 ];
