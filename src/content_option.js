@@ -7,9 +7,9 @@ const meta = {
 const introdata = {
     title: "I’m Abdullo Omonullaev",
     animated: {
-        first: "I enjoy developing websites",
-        second: "I practice Brazilian Jiu Jitsu.",
-        third: "I like working on project cars.",
+        first: "Find me working on my project cars",
+        second: "Probably Practcing Brazilian Jiu Jitsu.",
+        third: "Find me running on the streets of Prospect Park",
     },
     description: "Software Engineer at Toyota - Conntected Technologies. Working out of Dallas, Texas. Experience in working on both frontend and backend technologies, including REACT, Angular, java and other languages.",
     your_img_url: "https://i.imghippo.com/files/9qTCQ1718468248.jpg",
@@ -20,7 +20,7 @@ const dataabout = {
     aboutme: "Currently a software engineer who with experience in the financial industry and currently working in the automotive industry. Attended Undergrad in NY at Stony Brook University and moved down to Dallas, Texas. Besides software development, I like to be active and I occasionaly run marathons, compete in Brazilian Jiu Jitsu, and workout daily. I enjoy working on older cars and restoring and rebuilding old BMWs",
 };
 const worktimeline = [{
-        jobtitle: "Systems Software Engineer",
+        jobtitle: "Systems Software Engineer II",
         where: "Toyota Connected Technologies",
         date: "September 2023 - Present",
     },
@@ -119,6 +119,12 @@ const dataportfolio = [{
         img: "https://i.imghippo.com/files/1705466069.png",
         description: "Data Visualization using Numpy",
         link: "https://github.com/oabdullo/CSE332",
+    },
+    ,
+    {
+        img: "https://i.imghippo.com/files/1705465881.png",
+        description: "Machine Learning with Rainforest - Model for Predicting Vehicle Values",
+        link: "https://github.com/oabdullo/vehiclePredictiveModel",
     }
 ];
 
@@ -177,7 +183,22 @@ const dataCars = [{
 {
     img: "https://i.imghippo.com/files/DNsyL1718467862.jpg",
     description: " Terra 4Runner",
-    link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
+    link: "https://drive.google.com/drive/folders/1f7FU8KSQnXsZWQaOQzSYk7BaGSChlsA8?usp=drive_link",
+},
+{
+    img: "https://www.imghippo.com/i/NF4384J.jpg",
+    description: "Dark Blue 325CI Manual",
+    link: "https://drive.google.com/drive/u/1/folders/1Dz7zJwbsKY_6tH2y67yf6KNiRoT3HsMq",
+},
+{
+    img: "https://www.imghippo.com/i/AN7685qEU.jpg",
+    description: " Silver BMW 330 Convertible Manual",
+    link: "https://drive.google.com/drive/folders/1KjtSTIMmZKOl-XthImqOGciEu6DMuSpH?usp=drive_link",
+},
+{
+    img: "https://www.imghippo.com/i/vL3152yQ.jpg",
+    description: " Oxford Green BMW 530 Low Mileage Different than first 540i",
+    link: "hhttps://drive.google.com/drive/folders/1T0bJuGIRzFwI-tZSsC2uD-2Q7ralDMjH?usp=drive_link",
 },
 
 ];
