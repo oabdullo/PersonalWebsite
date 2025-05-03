@@ -141,7 +141,7 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1XkQHdmPKoNjy188nE3y6qTxP3D9ane70?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/RTAJU1709705229.jpg",
+    img: "https://images2.imgbox.com/61/bd/XAU8zIUS_o.jpg",
     description: "Deer Ford Fusion Blue",
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
@@ -181,7 +181,7 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/DNsyL1718467862.jpg",
+    img: "https://images2.imgbox.com/f5/04/zO90uDfc_o.jpeg",
     description: " Terra 4Runner",
     link: "https://drive.google.com/drive/folders/1f7FU8KSQnXsZWQaOQzSYk7BaGSChlsA8?usp=drive_link",
 },
