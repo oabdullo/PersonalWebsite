@@ -12,7 +12,7 @@ const introdata = {
         third: "Find me running on the streets of Prospect Park",
     },
     description: "Software Engineer at Toyota - Conntected Technologies. Working out of Dallas, Texas. Experience in working on both frontend and backend technologies, including REACT, Angular, java and other languages.",
-    your_img_url: "https://i.imghippo.com/files/9qTCQ1718468248.jpg",
+    your_img_url: "https://images2.imgbox.com/a9/2f/j3SKuHO0_o.jpeg",
 };
 
 const dataabout = {
