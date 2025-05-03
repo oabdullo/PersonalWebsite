@@ -131,12 +131,12 @@ const dataportfolio = [{
 //need to add the two new cars (325 Convertible and the 2008 Prius)
 
 const dataCars = [{
-    img: "https://i.imghippo.com/files/Sv09Y1709705158.png",
+    img: "https://images2.imgbox.com/1a/90/wuHAzEGi_o.png",
     description: "First Car and Favorite Car",
     link: "https://drive.google.com/drive/folders/1OSfXQWjXnNpcHpsIRsryjs-SmRfMrpey?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/ZyxI31718468020.jpg",
+    img: "https://images2.imgbox.com/c7/2c/dwzaYABO_o.jpg",
     description: "White Ford Fusion",
     link: "https://drive.google.com/drive/folders/1XkQHdmPKoNjy188nE3y6qTxP3D9ane70?usp=drive_link",
 },
@@ -146,37 +146,37 @@ const dataCars = [{
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/zLEdN1709705075.jpg",
+    img: "https://images2.imgbox.com/32/71/kno9z9jW_o.jpg",
     description: "Lexus CT",
     link: "https://drive.google.com/drive/folders/1azOZJzcuOReJsXAYsFeb4raZlylGOSjG?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/kS6DH1709705184.jpg",
+    img: "https://images2.imgbox.com/78/2d/uS5vNVTA_o.jpg",
     description: "Favorite Ford Fusion",
     link: "https://drive.google.com/drive/folders/1jQBTU7B0DMTpr1VawSDfMbv4DaNUEvl-?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/VfH061709705110.jpg",
+    img: "https://images2.imgbox.com/88/16/dR7yLrKH_o.jpg",
     description: "Beautiful BMW e39 540i",
     link: "https://drive.google.com/drive/folders/1P3k6c9x41teeqeP8Obeej4USsOckhIRX?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/9lt5K1709705061.jpg",
+    img: "https://images2.imgbox.com/90/39/XRIcqOWj_o.jpg",
     description: "BMW 330CI",
     link: "https://drive.google.com/drive/folders/1Dk_zuVX8KgGqNgTj9QGUHWynYOBIQHJb?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/PJDhp1709705030.jpg",
+    img: "https://images2.imgbox.com/d0/0c/X3bxU7N0_o.jpg",
     description: "BMW 325i Blue",
     link: "https://drive.google.com/drive/folders/1-CmlDKe16i3zzkbgT9SzAARace5Yx0vr?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/5Ruee1718467941.jpg",
+    img: "https://images2.imgbox.com/da/99/KOHyFveg_o.jpg",
     description: "BMW M3 E93 Convertble",
     link: "https://drive.google.com/drive/folders/1-RWdUTm_tgmq1vWvF_O5dIKwwePsCKgU?usp=drive_link",
 },
 {
-    img: "https://i.imghippo.com/files/lBNEj1719321322.jpg",
+    img: "https://images2.imgbox.com/1a/90/wuHAzEGi_o.png",
     description: "Nostalgia Prius",
     link: "https://drive.google.com/drive/folders/1JTczwpCXjBe5HcV0gjGR4xvE6SUHSc_s?usp=drive_link",
 },
