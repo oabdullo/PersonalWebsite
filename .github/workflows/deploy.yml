@@ -30,3 +30,14 @@ jobs:
         password: ${{ secrets.GIT_CPANEL_REACT_PWD }}
         protocol: ${{ secrets.GIT_CPANEL_REACT_PROTOCOL }}
         local-dir: ./build/
+        dangerous-clean-slate: true
+        timeout: 300000
+        exclude: |
+          **/.git*
+          **/.git*/**
+          **/node_modules/**
+          **/node_modules/**
+          **/.DS_Store
+          **/.DS_Store/**
+          **/.env
+          **/.env/**
