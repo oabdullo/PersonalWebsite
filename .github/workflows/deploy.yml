@@ -22,24 +22,12 @@ jobs:
         npm install
         npm run build
     
-    - name: 📂 Sync files
-      uses: SamKirkland/FTP-Deploy-Action@v4.3.4
-      with:
-        server: ${{ secrets.GIT_CPANEL_REACT_SERVER }}
-        username: ${{ secrets.GIT_CPANEL_REACT_USER }}
-        password: ${{ secrets.GIT_CPANEL_REACT_PWD }}
-        protocol: ftp
-        port: 21
-        local-dir: ./build/
-        dangerous-clean-slate: true
-        timeout: 300000
-        exclude: |
-          **/.git*
-          **/.git*/**
-          **/node_modules/**
-          **/node_modules/**
-          **/.DS_Store
-          **/.DS_Store/**
-          **/.env
-          **/.env/**
-        log-level: verbose
+    - name: 📂 Deploy to Server
+      uses: easingthemes/ssh-deploy@main
+      env:
+        SSH_PRIVATE_KEY: ${{ secrets.SSH_PRIVATE_KEY }}
+        ARGS: "-rlgoDzvc --delete"
+        SOURCE: "build/"
+        REMOTE_HOST: ${{ secrets.REMOTE_HOST }}
+        REMOTE_USER: ${{ secrets.REMOTE_USER }}
+        TARGET: ${{ secrets.REMOTE_TARGET }}
